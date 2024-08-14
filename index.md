@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://wangzhh.top/wangzhouhong.jpg" class="floatpic" width="360" height="480">
+<img src="https://wangzhh.top/images/wangzhouhong.jpg" class="floatpic" width="360" height="480">
 
 Here is **Wang Zhouhong (王周宏)**.
 
