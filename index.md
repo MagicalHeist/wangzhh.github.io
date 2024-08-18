@@ -15,11 +15,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Academic Background
 
 - **Sept 2023 - June 2026:**  Sun Yat-sen University (Master of Library Science, supervised by [Dr. Peng Xiao](https://ischool.sysu.edu.cn/zh-hans/teacher/xiaopeng))
-- **Sept 2020 - June 2022:** Sun Yat-sen University (Bachelor of Psychology, with a minor)
-    *Main courses: Social Psychology, Cognitive Psychology, Psychological Statistics and Psychological Measurement, Big Data and Mental Health*
-- **Sept 2019 - June 2023:** Sun Yat-sen University (Bachelor of Library Science, Bachelor of Management degree)
-    GPA of 4.11 (out of 5), ranking **1/26** in the major. 
-    *Main courses: Library Management, Library Marketing and Public Relations, Information Services and Users, Computer Networks, JAVA Programming, Database Systems and Practice, Information Literacy, Social Media*
+- **Sept 2020 - June 2022:** Sun Yat-sen University (Bachelor of Psychology, with a minor)<br>*Main courses: Social Psychology, Cognitive Psychology, Psychological Statistics and Psychological Measurement, Big Data and Mental Health*
+- **Sept 2019 - June 2023:** Sun Yat-sen University (Bachelor of Library Science, Bachelor of Management degree)<br>    GPA of 4.11 (out of 5), ranking **1/26** in the major. <br>*Main courses: Library Management, Library Marketing and Public Relations, Information Services and Users, Computer Networks, JAVA Programming, Database Systems and Practice, Information Literacy, Social Media*
 
 
 ---
