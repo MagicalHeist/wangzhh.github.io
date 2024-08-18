@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sept 2020 - June 2022:** Sun Yat-sen University (Psychology, with a minor)<br>*Main courses: Social Psychology, Cognitive Psychology, Psychological Statistics and Psychological Measurement, Big Data and Mental Health*
 - **Sept 2019 - June 2023:** Sun Yat-sen University (Bachelor of Library Science, Bachelor of Management degree)<br>    GPA **4.11 (out of 5)**, ranking **1/26** in the major. <br>*Main courses: Library Management, Library Marketing and Public Relations, Information Services and Users, Computer Networks, JAVA Programming, Database Systems and Practice, Information Literacy, Social Media*
 
-
+<!-- 
 ---
 
 ## Research Interests
@@ -46,3 +46,4 @@ My current research focuses on practical problems that artificial intelligence f
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+-->
