@@ -8,16 +8,19 @@ layout: page
 
 Here is **Wang Zhouhong (王周宏)**.
 
-I am a second-year master's student at Sun Yat-sen University. Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI & KDD UC Scholar**.
+I am a second-year master's student at Sun Yat-sen University. Currently, I engage in research at the National Research Institute for Cultural Heritage and Cultural Development, SYSU, advised by [Dr. Peng Xiao](https://ischool.sysu.edu.cn/zh-hans/teacher/xiaopeng).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *wangzhh75@mail2.sysu.edu.cn*
 
 ## Academic Background
 
-- **Sep 2024 - Future:** Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **Sept 2023 - June 2026:**  Sun Yat-sen University (Master of Library Science, supervised by [Dr. Peng Xiao](https://ischool.sysu.edu.cn/zh-hans/teacher/xiaopeng))
+- **Sept 2020 - June 2022:** Sun Yat-sen University (Bachelor of Psychology, with a minor)
+    *Main courses: Social Psychology, Cognitive Psychology, Psychological Statistics and Psychological Measurement, Big Data and Mental Health*
+- **Sept 2019 - June 2023:** Sun Yat-sen University (Bachelor of Library Science, Bachelor of Management degree)
+    GPA of 4.11 (out of 5), ranking **1/26** in the major. 
+    *Main courses: Library Management, Library Marketing and Public Relations, Information Services and Users, Computer Networks, JAVA Programming, Database Systems and Practice, Information Literacy, Social Media*
+
 
 ---
 
