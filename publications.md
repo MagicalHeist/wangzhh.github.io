@@ -29,7 +29,7 @@ TBA.
 ---
 ## Degree Thesis
 
-- Undergraduate. [Evaluation on the effect of Public Cultural Service System Demonstration Zone on the development of tourism: An empirical study based on difference-in-differences](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)*公共文化服务体系示范区对旅游业发展的影响效果评估——基于双重差分的实证研究*<br>**Wang Zhouhong** (Advisor: Xiao Peng). **Best Bachelor Thesis Award** (Top 3/26).<br>
+- *Undergraduate*. [Evaluation on the effect of Public Cultural Service System Demonstration Zone on the development of tourism: An empirical study based on difference-in-differences](https://caihanlin.com/mypaper/thesis/本科.pdf)*公共文化服务体系示范区对旅游业发展的影响效果评估——基于双重差分的实证研究*<br>**Wang Zhouhong** (Advisor: Xiao Peng). **Best Bachelor Thesis Award** (Top 3/26).<br>
 
 ---
 
