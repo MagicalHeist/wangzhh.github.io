@@ -4,13 +4,13 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Update: 3rd August 2024
+> Update: 23rd August 2024
 >
 > (†: corresponding author)
 
 
 ## English Publication
-TBA.
+1. [Does building smart cities necessarily enhance urban ICT development? Insights from a quasi-natural experiment based on Chinese pilot policy](https://wangzhh.top/mypaper/Chinese/SmartCity.pdf)<br>**Zhouhong Wang**, Shuxian Liu, Jia Li, Peng Xiao†.*Digital*<br>
 
 ---
 ## Chinese Publication
@@ -24,12 +24,12 @@ TBA.
 
 ---
 ## Conference Paper
-TBA.
+1. [Smart city = ICT development? A Hierarchical Study of Policy Practice](https://wangzhh.top/mypaper/Conference/SmartCityPoster.pdf)<br>**Wang Zhouhong**, Li jia, Xiao Peng†. <br> [2024 International Conference of Social Computing](https://social-computing-conference.github.io/icsc2024-hkustgz/) (ICSC 2024). <br> Guang Zhou, China. August, 2024.
 
 ---
 ## Degree Thesis
 
-- *Undergraduate*. [Evaluation on the effect of Public Cultural Service System Demonstration Zone on the development of tourism: An empirical study based on difference-in-differences](https://caihanlin.com/mypaper/thesis/本科.pdf)*公共文化服务体系示范区对旅游业发展的影响效果评估——基于双重差分的实证研究*<br>**Wang Zhouhong** (Advisor: Xiao Peng). **Best Bachelor Thesis Award** (Top 3/26).<br>
+- *Undergraduate*. [Evaluation on the effect of Public Cultural Service System Demonstration Zone on the development of tourism: An empirical study based on difference-in-differences](https://caihanlin.com/mypaper/Thesis/本科.pdf)*公共文化服务体系示范区对旅游业发展的影响效果评估——基于双重差分的实证研究*<br>**Wang Zhouhong** (Advisor: Xiao Peng). **Best Bachelor Thesis Award** (Top 3/26).<br>
 
 ---
 
